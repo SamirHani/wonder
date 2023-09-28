@@ -207,7 +207,7 @@ header .main-nav {
   top: calc(100% + 1px);
   transition: top var(--transition-dur) , opacity var(--transition-dur); */
 }
-header .main-nav > li {
+header li {
   cursor: pointer;
 }
 header .main-nav > li > a {
