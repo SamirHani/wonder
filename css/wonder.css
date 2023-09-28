@@ -254,10 +254,10 @@ header .mega-menu {
   gap: 40px;
 }
 .show {
-  opacity: 1;
-  z-index: 100; 
-  top: calc(100% + 1px);
-  transition: top var(--transition-dur) , opacity var(--transition-dur); */
+  opacity: 1 !important;
+  z-index: 100 !important; 
+  top: calc(100% + 1px) !important;
+  transition: top var(--transition-dur) , opacity var(--transition-dur);
 }
 @media (max-width: 767px) {
   header .mega-menu {
