@@ -3,6 +3,7 @@ let megaLink = document.querySelector(".mega");
 
 function opacity() {
 megaMenu.classList.toggle("show");
+  
 }
 console.log("hello world");
 
