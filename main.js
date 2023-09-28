@@ -1,5 +1,5 @@
 let megaMenu = document.querySelector(".mega-menu");
-let megaLink = document.querySelector(".mege");
+let megaLink = document.querySelector(".mega");
 
 megaLink.onclick = function () {
  megaMenu.style.opacity = "1";
